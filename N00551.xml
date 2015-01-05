@@ -114,14 +114,14 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:000679_0000_0FA99EF7ADE6B3B0"/>
-            <pb facs="tcp:000679_0001_0FA99EF30773E9C8"/>
+            <pb facs="unknown:000679_0000_0FA99EF7ADE6B3B0"/>
+            <pb facs="unknown:000679_0001_0FA99EF30773E9C8"/>
             <head>TO Coll. Benjamin Fletcher, Captain General and GOVERNOR In CHIEF Of the Province of <hi>New-York,</hi> Province of <hi>Penn<g ref="char:EOLhyphen"/>silvania,</hi> Country of <hi>New-Castle,</hi> &amp; the Territories and Tracts of Land thereon depending, in AMERICA, And Vice-Admiral of the same.</head>
             <head type="sub">The Address of some of the Peaceable and well Affected Free-holders and Inhabitants of the Town and County of <hi>Philadelphia.</hi>
             </head>
             <p>WE being deeply sensible of the KING and QUEEN's great Care and Concern for our Safety and Preservation, by taking us under their immediate Care and Government, do cheerfully imbrace the same with great Thankfulness<g ref="char:punc">▪</g> and in Sincerity of our Hearts do declare, That we shall be ready to support and maintain the same, as much as in us lies (in all things consistent with the Per<g ref="char:EOLhyphen"/>swasion of our tender Consciences) according to our Duty.</p>
             <p>Since thy Arrival in <hi>America</hi> (Worthy Governour) we have often heard a very great and good Character of thee, both for thy Ex<g ref="char:EOLhyphen"/>emplary
-<pb facs="tcp:000679_0002_0FA99EF331843178"/>
+<pb facs="unknown:000679_0002_0FA99EF331843178"/>
 Life and Conversation, <gap reason="illegible: indecipherable" extent="1 span">
                   <desc>〈…〉</desc>
                </gap> Management in composing and putting an end to the Fewds and Disorders that were amongst the People in <hi>NEW-YORK</hi> before thy Arrival there; the which excellent Character being abundantly Confirmed by thy D<gap reason="illegible: missing" extent="1 letter">
@@ -206,7 +206,7 @@ Life and Conversation, <gap reason="illegible: indecipherable" extent="1 span">
                            <desc>•</desc>
                         </gap>ret,</item>
                      <item>
-                        <pb facs="tcp:000679_0003_0FA99EF4B04423E0"/>Thomas Peart,</item>
+                        <pb facs="unknown:000679_0003_0FA99EF4B04423E0"/>Thomas Peart,</item>
                      <item>Nath. Thornton,</item>
                      <item>Ralph Ward,</item>
                      <item>Anthony Taylor,</item>
